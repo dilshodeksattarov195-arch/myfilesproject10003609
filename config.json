@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdave",
+        "uuid": 18275976,
+        "checksum": "6cdqle"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
